@@ -1,4 +1,4 @@
-# cssalphabetize README
+# CSS Alphabetize
 
 CSS Alphabetize is a simple VS Code extension for organizing CSS rules alphabetically.
 
